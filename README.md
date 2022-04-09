@@ -1,1 +1,3 @@
-# The-best-world-repository
+# The best repository in the world!
+
+Trust me!
